@@ -11,7 +11,11 @@
             "n67"
         ],
         "source_url": "https://github.com/Searchstars/Hyperbilibili",
-        "author": "Searchstars"
+        "author": {
+            "name": "Searchstars",
+            "author_url": "https://github.com/Searchstars",
+            "author_a": ""
+        }
     },
     "downloads": {
         "n62": {
