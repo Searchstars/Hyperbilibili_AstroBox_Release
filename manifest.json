@@ -4,18 +4,12 @@
         "description": "为Xiaomi Vela穿戴设备打造的第三方哔哩哔哩客户端",
         "preview": "preview.png",
         "icon": "icon.png",
-        "support_devices": [
-            "n62",
-            "o62",
-            "o65m",
-            "n67"
-        ],
         "source_url": "https://github.com/Searchstars/Hyperbilibili",
-        "author": {
+        "author": [{
             "name": "Searchstars",
             "author_url": "https://github.com/Searchstars",
             "author_a": ""
-        }
+        }]
     },
     "downloads": {
         "n62": {
